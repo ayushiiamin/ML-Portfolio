@@ -13,7 +13,7 @@ The link to the Kaggle dataset: https://www.kaggle.com/ananthu017/emotion-detect
 
 ## 1 - Naïve Bayes Classifier:
 
-* Chose the BernoulliNB model offered by Scikit-Learn.
+* Chose the **BernoulliNB** model offered by Scikit-Learn.
 * Computed the Precision, Recall, TP Rate, and FP Rate for each of the emotions (*Angry, Disgusted, Fearful, Happy, Neutral, Sad, and Surprised*) separately.
 * Generated the top 10 correlations for each of the emotions separately and computed the Precision, Recall, TP Rate, and FP Rate for each emotion.
 
